@@ -1,0 +1,14 @@
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\bin\Debug\net8.0\EX_7_Shelkynov.exe
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\bin\Debug\net8.0\EX_7_Shelkynov.deps.json
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\bin\Debug\net8.0\EX_7_Shelkynov.runtimeconfig.json
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\bin\Debug\net8.0\EX_7_Shelkynov.dll
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\bin\Debug\net8.0\EX_7_Shelkynov.pdb
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.dll
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\refint\EX_7_Shelkynov.dll
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.pdb
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\EX_7_Shelkynov.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Задача№7\EX_7_Shelkynov\EX_7_Shelkynov\obj\Debug\net8.0\ref\EX_7_Shelkynov.dll
