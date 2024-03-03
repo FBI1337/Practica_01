@@ -11,7 +11,7 @@ namespace EX_9_Shelkynov
         // 2. Хождение фигуры по координатам
         static void Main()
         {
-            Console.WriteLine("Введите исходные данные в формате (ферзь d3 слон e1 d8):");
+            Console.WriteLine("Введите исходные данные в формате:");
             string input = Console.ReadLine();
 
             string[] inputArray = input.Split(' ');

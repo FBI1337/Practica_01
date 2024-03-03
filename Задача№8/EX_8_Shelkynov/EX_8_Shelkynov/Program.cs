@@ -6,10 +6,10 @@ namespace EX_8
     {
         static void Main()
         {
-            Console.WriteLine("Введите координаты первого поля (например, a1):");
+            Console.WriteLine("Введите координаты первого поля:");
             string field1 = Console.ReadLine();
 
-            Console.WriteLine("Введите координаты второго поля (например, b2):");
+            Console.WriteLine("Введите координаты второго поля:");
             string field2 = Console.ReadLine();
 
             if (IsValidField(field1) && IsValidField(field2))
