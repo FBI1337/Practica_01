@@ -8,14 +8,12 @@ namespace EX_7
     // Основной класс программы
     class Program
     {
-        // Основной метод программы
-        // 1. Чтение лабиринта из текстового файла
-        // 2. Обработка ввода пользователя для перемещения "■"
-        // 3. Перемещение игрока и сохранение маршрута
+        
         static void Main()
         {
             Console.CursorVisible = false;
-
+            
+            //сам лабиринт
             string[] lines = File.ReadAllLines("C:\\Users\\slava\\OneDrive\\Documents\\Учеба и игры\\УП.01\\Задача№7\\EX_7_Shelkynov\\EX_7_Shelkynov\\bin\\Debug\\net8.0\\map.txt"); // Путь указать самому к файлу map.txt
 
             int playerRow = 1;
@@ -34,6 +32,7 @@ namespace EX_7
             {
                 DisplayRoute(lines, route, showDots);
 
+                //управляемый персонаж
                 Console.SetCursorPosition(playerCol, playerRow);
                 Console.Write("■");
 
@@ -46,6 +45,9 @@ namespace EX_7
                 int newPlayerRow = playerRow;
                 int newPlayerCol = playerCol;
 
+
+
+                //настройка управления
                 if (key == ConsoleKey.UpArrow && CanMoveTo(lines[playerRow - 1][playerCol]))
                 {
                     newPlayerRow--;
@@ -67,6 +69,8 @@ namespace EX_7
                     showDots = !showDots;
                 }
 
+                
+                //при контакте с 'F' завершение лабиринта
                 if (lines[newPlayerRow][newPlayerCol] == 'F')
                 {
                     Console.Clear();
