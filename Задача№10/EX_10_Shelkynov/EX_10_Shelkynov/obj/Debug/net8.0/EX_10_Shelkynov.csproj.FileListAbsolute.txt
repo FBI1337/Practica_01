@@ -1,0 +1,15 @@
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.sourcelink.json
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\bin\Debug\net8.0\EX_10_Shelkynov.exe
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\bin\Debug\net8.0\EX_10_Shelkynov.deps.json
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\bin\Debug\net8.0\EX_10_Shelkynov.runtimeconfig.json
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\bin\Debug\net8.0\EX_10_Shelkynov.dll
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\bin\Debug\net8.0\EX_10_Shelkynov.pdb
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.dll
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\refint\EX_10_Shelkynov.dll
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.pdb
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\EX_10_Shelkynov.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№10\EX_10_Shelkynov\EX_10_Shelkynov\obj\Debug\net8.0\ref\EX_10_Shelkynov.dll
