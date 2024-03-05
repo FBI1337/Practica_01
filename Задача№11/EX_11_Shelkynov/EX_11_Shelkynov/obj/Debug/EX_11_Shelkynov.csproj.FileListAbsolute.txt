@@ -1,0 +1,10 @@
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\EX_11_Shelkynov.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\EX_11_Shelkynov.Properties.Resources.resources
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\EX_11_Shelkynov.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\EX_11_Shelkynov.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\SudokuGenerator.Form1.resources
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\bin\Debug\EX_11_Shelkynov.exe.config
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\bin\Debug\EX_11_Shelkynov.exe
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\bin\Debug\EX_11_Shelkynov.pdb
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\EX_11_Shelkynov.exe
+C:\Users\slava\OneDrive\Documents\Учеба и игры\УП.01\Practica_1_Demo\Задача№11\EX_11_Shelkynov\EX_11_Shelkynov\obj\Debug\EX_11_Shelkynov.pdb
