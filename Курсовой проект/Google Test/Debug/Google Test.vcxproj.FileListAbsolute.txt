@@ -1,0 +1,4 @@
+C:\Users\slava\Desktop\Проект Больница\1.Программа\Google Test\Debug\Google Test.vcxproj.CopyComplete
+C:\Users\slava\Desktop\Проект Больница\1.Программа\Google Test\Debug\Google Test.exe
+C:\Users\slava\Desktop\Проект Больница\1.Программа\Google Test\Debug\gtest.pdb
+C:\Users\slava\Desktop\Проект Больница\1.Программа\Google Test\Debug\gtest_main.pdb
